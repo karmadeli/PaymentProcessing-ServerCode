@@ -2,6 +2,12 @@
 node_modules
 npm-debug.log
 
+# third party contributed
+app.json
+package.json 
+Procfile
+test.js
+
 # Local development
 *.env
 *.dev
