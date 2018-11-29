@@ -5,7 +5,6 @@ const express = require('express')
 var stripe = require('stripe')(testKey)
 var bodyParser = require('body-parser')
 const path = require('path')
-
 const PORT = process.env.PORT || 5000
 var app = express()
 
